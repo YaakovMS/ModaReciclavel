@@ -1,2 +1,2 @@
 # ModaReciclavel
- EcoFashion é um aplicativo focado em moda sustentável, proporcionando aos seus usuários a oportunidade de realizar trocas de peças entre si. 
+O EcoFashion é um aplicativo focado em moda sustentável, proporcionando aos seus usuários a oportunidade de realizar trocas de peças entre si. Com o EcoFashion, promovemos um estilo de vida mais consciente, incentivando a reutilização de roupas e acessórios, contribuindo assim para a redução do impacto ambiental da indústria da moda. Junte-se a nós e faça parte dessa comunidade comprometida com um futuro mais sustentável e elegante.
